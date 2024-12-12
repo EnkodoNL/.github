@@ -1,5 +1,5 @@
 <p align="center">
-[![Enkodo](https://enkodo.app/img/enkodo512.png)](https://enkodo.app)
+  <a href="https://enkodo.app/" target="_blank" rel="noreferrer"><img src="https://enkodo.app/img/enkodo512.png" alt="TypeScript" width="200"/></a>
 </p>
 
 # Enkodo
